@@ -1,0 +1,122 @@
+Vance Enterprise Edition - Commercial License
+
+Copyright (c) 2025 Mike Hummel
+All rights reserved.
+
+Version 1.0 – 2025
+
+============================================================
+1. Source Availability
+============================================================
+
+The source code of this Software is made publicly available for
+transparency, review, and evaluation purposes only.
+
+Public availability of the source code does NOT grant any right
+to use, modify, deploy, or redistribute the Software without a
+valid commercial license agreement.
+
+============================================================
+2. Grant of Commercial License
+============================================================
+
+Subject to the terms of this License and a valid license agreement,
+the Licensor grants the Licensee a non-exclusive, non-transferable,
+non-sublicensable right to use, reproduce, modify, and deploy the
+Software for commercial and production purposes.
+
+This License permits the use of the Software in operational,
+business-critical, and revenue-generating environments.
+
+============================================================
+3. Usage Without License Agreement
+============================================================
+
+Without a valid commercial license agreement, you may only:
+
+- view and review the source code,
+- use the Software for non-commercial testing, evaluation,
+  and experimentation purposes.
+
+Any production, operational, or commercial use without a valid
+license agreement is strictly prohibited.
+
+============================================================
+4. Scope and Limitations
+============================================================
+
+Unless explicitly agreed otherwise in writing, the Licensee must not:
+
+- sublicense, sell, rent, or redistribute the Software to third parties,
+- make the Software available as a standalone product,
+- remove or alter copyright notices.
+
+This License does not grant any rights to the Vance name, trademarks,
+or logos.
+
+============================================================
+5. Source Code and Modifications
+============================================================
+
+The Licensee may modify the Software for internal use.
+
+The Licensee is not required to disclose source code or modifications,
+unless explicitly agreed otherwise in writing.
+
+============================================================
+6. License Fee
+============================================================
+
+The license fee, if any, as well as payment terms, shall be defined
+in a separate written agreement or order form.
+
+============================================================
+7. Ownership
+============================================================
+
+The Software is licensed, not sold.
+
+All rights, title, and interest in and to the Software remain with
+the Licensor.
+
+============================================================
+8. Warranty Disclaimer
+============================================================
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NONINFRINGEMENT.
+
+============================================================
+9. Limitation of Liability
+============================================================
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL
+THE LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, CONSEQUENTIAL,
+SPECIAL, OR EXEMPLARY DAMAGES.
+
+THE TOTAL LIABILITY OF THE LICENSOR UNDER THIS LICENSE SHALL NOT
+EXCEED THE AMOUNT PAID BY THE LICENSEE FOR THE LICENSE, IF ANY.
+
+============================================================
+10. Termination
+============================================================
+
+This License is effective until terminated.
+
+The Licensor may terminate this License if the Licensee materially
+breaches its terms and fails to cure such breach within a reasonable
+period after written notice.
+
+Upon termination, the Licensee must cease all use of the Software.
+
+============================================================
+11. Governing Law
+============================================================
+
+This License shall be governed by the laws agreed upon in writing
+between the Licensor and the Licensee.
+
+============================================================
+
+End of Vance Enterprise Edition Commercial License v1.0
